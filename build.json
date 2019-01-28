@@ -1,0 +1,10 @@
+{
+	"id": "phpinfo",
+	"version": "1.0",
+	"description": "phpinfo",
+	"categories": [
+		"phpinfo",
+		"admin"
+	],
+	"compatible_from": "2019.1.3"
+}
